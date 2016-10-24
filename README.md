@@ -1,4 +1,5 @@
 # RESUME-of-Siyue-Wang
+ I edit the resume from:
  /* Author: Carlos Alvarez
  * URL: http://alvarez.is
  *
